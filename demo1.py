@@ -6,3 +6,4 @@ msg = "hola"
 old = True
 young = False
 z = 5
+print(z)
